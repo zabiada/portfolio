@@ -1,0 +1,32 @@
+.contact-page {
+    max-width: 600px;
+    margin: auto;
+    color: white;
+    font-size: 20px;
+    margin-top: 100px;
+    margin-bottom: 80px;
+  }
+  
+  .form-group {
+    margin-bottom: 20px;
+  }
+  
+  label {
+    display: block;
+  }
+  
+  input,
+  textarea {
+    width: 100%;
+    padding: 10px;
+    border-radius: 10px;
+    background-color: #d3cccc;
+  }
+  
+  button {
+    padding: 10px;
+    font-size: 25px;
+    border-radius: 10px;
+    background-color: gray;
+    color: white;
+  }
